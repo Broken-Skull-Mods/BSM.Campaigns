@@ -27,7 +27,7 @@ Todd ---------------- CLASSIFIED ------------------ is the ground CIA contact op
 He is providing missions and intelligence but is yet to be seen.
 
 ## Operation Objectives
-
+[--OperationObjectiveCard()--]
 [--OperationObjectiveCard()--]
     {
         "MMO": {
@@ -74,4 +74,4 @@ He is providing missions and intelligence but is yet to be seen.
             ]
         },
     }
-[--/OperationObjectiveCard()--]
+[--/OperationObjectiveCard--]
