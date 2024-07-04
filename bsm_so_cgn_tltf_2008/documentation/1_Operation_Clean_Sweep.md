@@ -28,7 +28,6 @@ He is providing missions and intelligence but is yet to be seen.
 
 ## Operation Objectives
 [--OperationObjectiveCard()--]
-[--OperationObjectiveCard()--]
     {
         "MMO": {
             "Brief": [
