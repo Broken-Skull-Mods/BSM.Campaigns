@@ -28,9 +28,11 @@ He is providing missions and intelligence but is yet to be seen.
 
 ## Operation Objectives
 
-[--HighlightCode()--]
-dsdasd
+[--HighlightCode(Language="sqf")--]
+[] call BrokenSkullMods_fnc_generatePolylines;
+
 [--/HighlightCode--]
+
 [--OperationObjectiveCard()--]
     {
         "MMO": {
