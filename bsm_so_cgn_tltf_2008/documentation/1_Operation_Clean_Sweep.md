@@ -4,7 +4,7 @@
         "CampaignName": "The Land Time Forgot",
         "OperationName": "Operation Helping Hand",
         "DescriptionLines": [
-            "The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.",
+            "The Blood of Americans spilled during the decade long war over Atropian oil has forced the president to recall most of our forces in the region.",
             "As we removed our forces, over the past 5 years, the Atropia Separatist Forces have secured their power over the region, to the point of making our allies nervous of their growing power.",
             "3-75th Ranger Battalion is being deployed to Victory Airfield in an attempt to drop and ironfist on the ASF and help destabilize their forces in order for us to maintain a foot hold in the middle east.",
             "As the first wave of returning forces in the region, you will have a limited support available.",
@@ -29,9 +29,9 @@
         ]
     }
 [--/CampaignOperationCard--]
-
+<br/>
 [--Headline()--] <h3>Key Characters</h3> [--/Headline--]
-<br/><br/>
+<br/>
 
 [--CampaignKeyPersonalCard()--] 
     [
@@ -55,9 +55,9 @@
     ]
 [--/CampaignKeyPersonalCard--]
 
-
+<br/>
 [--Headline()--] <h3>Operation Objectives</h3> [--/Headline--]
-<br/><br/>
+<br/>
 [--OperationObjectiveCard()--]
     [
         {
