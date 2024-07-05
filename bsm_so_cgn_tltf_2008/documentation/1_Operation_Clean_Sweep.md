@@ -1,22 +1,40 @@
-[--CampaignOperationCard()--] <h3 style="align-center">Operation Clean Sweep</h3> [--/CampaignOperationCard--]
 
-## Part 1
-The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.
+[--CampaignOperationCard()--] 
+    {
+        "CampaignName": "MMO",
+        "OperationName": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705083628_1.jpg",
+        "Description": "
+            The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.<br/><br/>
 
-As we removed our forces, over the past 5 years, the Atropia Separatist Forces have secured their power over the region, to the point of making our allies nervous of their growing power.
+            As we removed our forces, over the past 5 years, the Atropia Separatist Forces have secured their power over the region, to the point of making our allies nervous of their growing power. <br/><br/>
 
-3-75th Ranger Battalion is being deployed to Victory Airfield in an attempt to drop and ironfist on the ASF and help destabilize their forces in order for us to maintain a foot hold in the middle east.
+            3-75th Ranger Battalion is being deployed to Victory Airfield in an attempt to drop and ironfist on the ASF and help destabilize their forces in order for us to maintain a foot hold in the middle east. <br/><br/>
 
-As the first wave of returning forces in the region, you will have a limited support available.
+            As the first wave of returning forces in the region, you will have a limited support available. <br/> <br/>
 
-**3-75th Army Rangers** *VS* **Atropian Separatist Forces**
+            The first assigment is to deliver a swift and ruthless massive blow to the enemy's supply line and ammo depot.
+        ",
+        "FactionRelation" : [
+            {
+                "FactionA": "3-75th Army Rangers",
+                "FactionB": "Atropian Separatist Forces",
+                "FactionRelations": 0 
+            },
+            {
+                "FactionA": "3-75th Army Rangers",
+                "FactionB": "Atropian Liberation Forces",
+                "FactionRelations": 1 
+            },
+            {
+                "FactionA": "Atropian Liberation Forces",
+                "FactionB": "Atropian Separatist Forces",
+                "FactionRelations": 1 
+            }
+        ]
+    }
+[--/CampaignOperationCard--]
 
-**Atropian Liberation Forces** *VS* **Atropian Separatist Forces**
-
-<hr style="max-width: none;" />
-The first assigment is to deliver a swift and ruthless massive blow to the enemy's supply line and ammo depot.
-
-[--Headline()--] <h3 style="align-center">Key Characters</h3> [--/Headline--]
+[--Headline()--] <h3 style="margin-bottom: 1em;">Key Characters</h3> [--/Headline--]
 ### Lt. Sanders
 Liteunant Sander, Early 30s on the track of becomeing Colonel. Sanders.
 He doesn't get shit from anyone and as an extensive ground operational background.
@@ -27,7 +45,7 @@ Todd ---------------- CLASSIFIED ------------------ is the ground CIA contact op
 
 He is providing missions and intelligence but is yet to be seen.
 
-[--Headline()--] <h3 style="align-center">Operation Objectives</h3> [--/Headline--]
+[--Headline()--] <h3 style="margin-bottom: 1em;">Operation Objectives</h3> [--/Headline--]
 [--OperationObjectiveCard()--]
     [
         {
