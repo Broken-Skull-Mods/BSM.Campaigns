@@ -1,8 +1,8 @@
 
 [--CampaignOperationCard()--] 
     {
-        "CampaignName": "MMO",
-        "OperationName": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705083628_1.jpg",
+        "CampaignName": "The Land Time Forgot",
+        "OperationName": "Operation Helping Hand",
         "DescriptionLines": [
             "The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.",
             "As we removed our forces, over the past 5 years, the Atropia Separatist Forces have secured their power over the region, to the point of making our allies nervous of their growing power.",
