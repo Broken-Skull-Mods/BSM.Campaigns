@@ -1,4 +1,5 @@
-# Operation Clean Sweep - Briefing
+[--Headline()--] <h3 style="align-center">Operation Clean Sweep</h3> [--/Headline--]
+
 ## Part 1
 The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.
 
@@ -12,10 +13,10 @@ As the first wave of returning forces in the region, you will have a limited sup
 
 **Atropian Liberation Forces** *VS* **Atropian Separatist Forces**
 
-<hr/>
+<hr style="max-width: none;" />
 The first assigment is to deliver a swift and ruthless massive blow to the enemy's supply line and ammo depot.
 
-## Key Characters
+[--Headline()--] <h3 style="align-center">Key Characters</h3> [--/Headline--]
 ### Lt. Sanders
 Liteunant Sander, Early 30s on the track of becomeing Colonel. Sanders.
 He doesn't get shit from anyone and as an extensive ground operational background.
@@ -26,8 +27,7 @@ Todd ---------------- CLASSIFIED ------------------ is the ground CIA contact op
 
 He is providing missions and intelligence but is yet to be seen.
 
-## Operation Objectives
-
+[--Headline()--] <h3 style="align-center">Operation Objectives</h3> [--/Headline--]
 [--OperationObjectiveCard()--]
     [
         {
