@@ -28,15 +28,11 @@ He is providing missions and intelligence but is yet to be seen.
 
 ## Operation Objectives
 
-[--HighlightCode(Language="sqf")--]
-[] call BrokenSkullMods_fnc_generatePolylines;
-
-[--/HighlightCode--]
-
 [--OperationObjectiveCard()--]
     [
         {
             "AO": "MMO",
+            "AO_Picture": "",
             "Brief":[
                 "Assault the radar outpost and destroy it and all the anti-aircraft on the object.",
                 "HORNET 1-1 is not allowed in the air until this objective is completed."
@@ -47,6 +43,7 @@ He is providing missions and intelligence but is yet to be seen.
         },
         {
             "AO": "SMO-1",
+            "AO_Picture": "",
             "Brief":[
                 "Assault the village and destroy the enemy's ammo depot.",
                 "Search marked buildings for intelligence."
@@ -57,6 +54,7 @@ He is providing missions and intelligence but is yet to be seen.
         },
         {
             "AO": "SMO-2",
+            "AO_Picture": "",
             "Brief":[
                 "Destroy the enemy supply line and search for Shiek Abudobi, Shcmalek Abudobi's brother."
             ],
@@ -68,6 +66,7 @@ He is providing missions and intelligence but is yet to be seen.
         },
         {
             "AO": "Capture Shiek Abudbobi (Hidden)",
+            "AO_Picture": "",
             "Brief":[
                 "You can informe the team to retrieve shiek alive and to wait for HORNET 1-1 confirmation to move there."
             ],
@@ -78,6 +77,7 @@ He is providing missions and intelligence but is yet to be seen.
         },
         {
             "AO": "PMO",
+            "AO_Picture": "",
             "Brief":[
                 "The goal here is to assasinate Shcmalek Abudobi, plain and simple."
             ],
