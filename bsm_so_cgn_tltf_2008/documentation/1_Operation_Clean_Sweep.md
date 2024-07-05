@@ -41,7 +41,7 @@
             "DescriptionLines": [
                 "Lieutenant Sander, Early 30s on the track of becoming Colonel.",
                 "Sanders, He doesn't get shit from anyone and as an extensive ground operational background, he will be briefing the team and sending them in battle."
-            ],
+            ]
         },
         {
             "Name": "Todd",
@@ -50,7 +50,7 @@
                 "CIA Contact and Operator on ground.",
                 "---------------- CLASSIFIED ------------------",
                 "He is providing missions and intelligence but is yet to be seen."
-            ],
+            ]
         }
     ]
 [--/CampaignKeyPersonalCard--]
