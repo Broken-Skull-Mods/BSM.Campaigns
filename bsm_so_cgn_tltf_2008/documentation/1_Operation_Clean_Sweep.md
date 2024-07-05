@@ -1,4 +1,4 @@
-[--Headline()--] <h3 style="align-center">Operation Clean Sweep</h3> [--/Headline--]
+[--CampaignOperationCard()--] <h3 style="align-center">Operation Clean Sweep</h3> [--/CampaignOperationCard--]
 
 ## Part 1
 The Blood of Americans still during the decade long war over Atropian oil has force the president to recall most of our forces in the region.
