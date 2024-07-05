@@ -45,7 +45,7 @@
         },
         {
             "Name": "Todd",
-            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705160558_1.jpg",
+            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705170338_1.jpg",
             "DescriptionLines": [
                 "CIA Contact and Operator on ground.",
                 "---------------- CLASSIFIED ------------------",
