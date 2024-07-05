@@ -32,15 +32,29 @@
 
 [--Headline()--] <h3>Key Characters</h3> [--/Headline--]
 <br/><br/>
-### Lt. Sanders
-Liteunant Sander, Early 30s on the track of becomeing Colonel. Sanders.
-He doesn't get shit from anyone and as an extensive ground operational background.
-He will be briefing the team and sending them in battle.
 
-### Todd
-Todd ---------------- CLASSIFIED ------------------ is the ground CIA contact operating across the world.
+[--CampaignKeyPersonalCard()--] 
+    [
+        {
+            "Name": "Lt. Sanders",
+            "Potraits": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705104107_1",
+            "DescriptionLines": [
+                "Lieutenant Sander, Early 30s on the track of becoming Colonel.",
+                "Sanders, He doesn't get shit from anyone and as an extensive ground operational background, he will be briefing the team and sending them in battle."
+            ],
+        },
+        {
+            "Name": "Todd",
+            "Potraits": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705160558_1",
+            "DescriptionLines": [
+                "CIA Contact and Operator on ground.",
+                "---------------- CLASSIFIED ------------------",
+                "He is providing missions and intelligence but is yet to be seen."
+            ],
+        }
+    ]
+[--/CampaignKeyPersonalCard--]
 
-He is providing missions and intelligence but is yet to be seen.
 
 [--Headline()--] <h3>Operation Objectives</h3> [--/Headline--]
 <br/><br/>
