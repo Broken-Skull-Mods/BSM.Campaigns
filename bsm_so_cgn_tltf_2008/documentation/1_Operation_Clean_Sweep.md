@@ -37,7 +37,7 @@
     [
         {
             "Name": "Lt. Sanders",
-            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705104107_1",
+            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705104107_1.jpg",
             "DescriptionLines": [
                 "Lieutenant Sander, Early 30s on the track of becoming Colonel.",
                 "Sanders, He doesn't get shit from anyone and as an extensive ground operational background, he will be briefing the team and sending them in battle."
@@ -45,7 +45,7 @@
         },
         {
             "Name": "Todd",
-            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705160558_1",
+            "Portrait": "https://raw.githubusercontent.com/Broken-Skull-Mods/BSM.Campaigns/main/bsm_so_cgn_tltf_2008/documentation/assets/20240705160558_1.jpg",
             "DescriptionLines": [
                 "CIA Contact and Operator on ground.",
                 "---------------- CLASSIFIED ------------------",
