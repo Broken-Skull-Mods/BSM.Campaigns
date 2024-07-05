@@ -34,8 +34,9 @@ He is providing missions and intelligence but is yet to be seen.
 [--/HighlightCode--]
 
 [--OperationObjectiveCard()--]
-    {
-        "MMO":{
+    [
+        {
+            "AO": "MMO",
             "Brief":[
                 "Assault the radar outpost and destroy it and all the anti-aircraft on the object.",
                 "HORNET 1-1 is not allowed in the air until this objective is completed."
@@ -44,7 +45,8 @@ He is providing missions and intelligence but is yet to be seen.
                 
             ]
         },
-        "SMO-1":{
+        {
+            "AO": "SMO-1",
             "Brief":[
                 "Assault the village and destroy the enemy's ammo depot.",
                 "Search marked buildings for intelligence."
@@ -53,7 +55,8 @@ He is providing missions and intelligence but is yet to be seen.
                 
             ]
         },
-        "SMO-2":{
+        {
+            "AO": "SMO-2",
             "Brief":[
                 "Destroy the enemy supply line and search for Shiek Abudobi, Shcmalek Abudobi's brother."
             ],
@@ -63,7 +66,8 @@ He is providing missions and intelligence but is yet to be seen.
                 "By that time team already knows about shiek's position Hornet 1-1 should take out the 2 support target before the team leaves the area."
             ]
         },
-        "Capture Shiek Abudbobi (Hidden)":{
+        {
+            "AO": "Capture Shiek Abudbobi (Hidden)",
             "Brief":[
                 "You can informe the team to retrieve shiek alive and to wait for HORNET 1-1 confirmation to move there."
             ],
@@ -72,7 +76,8 @@ He is providing missions and intelligence but is yet to be seen.
                 "Once Shiek is captured, Hornet 1-1 should come pick him up."
             ]
         },
-        "PMO":{
+        {
+            "AO": "PMO",
             "Brief":[
                 "The goal here is to assasinate Shcmalek Abudobi, plain and simple."
             ],
@@ -82,5 +87,5 @@ He is providing missions and intelligence but is yet to be seen.
                 "At this point, HORNET 1-1 can try to help the team on peril of being shot down."
             ]
         }
-    }
+    ]
 [--/OperationObjectiveCard--]
