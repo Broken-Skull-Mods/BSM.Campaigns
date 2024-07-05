@@ -10,7 +10,7 @@
             "As the first wave of returning forces in the region, you will have a limited support available.",
             "The first assigment is to deliver a swift and ruthless massive blow to the enemy's supply line and ammo depot."
         ],
-        "FactionRelation" : [
+        "FactionRelations" : [
             {
                 "FactionA": "3-75th Army Rangers",
                 "FactionB": "Atropian Separatist Forces",
@@ -30,7 +30,8 @@
     }
 [--/CampaignOperationCard--]
 
-[--Headline()--] <h3 style="margin-bottom: 1em;">Key Characters</h3> [--/Headline--]
+[--Headline()--] <h3>Key Characters</h3> [--/Headline--]
+<br/><br/>
 ### Lt. Sanders
 Liteunant Sander, Early 30s on the track of becomeing Colonel. Sanders.
 He doesn't get shit from anyone and as an extensive ground operational background.
@@ -41,7 +42,8 @@ Todd ---------------- CLASSIFIED ------------------ is the ground CIA contact op
 
 He is providing missions and intelligence but is yet to be seen.
 
-[--Headline()--] <h3 style="margin-bottom: 1em;">Operation Objectives</h3> [--/Headline--]
+[--Headline()--] <h3>Operation Objectives</h3> [--/Headline--]
+<br/><br/>
 [--OperationObjectiveCard()--]
     [
         {
