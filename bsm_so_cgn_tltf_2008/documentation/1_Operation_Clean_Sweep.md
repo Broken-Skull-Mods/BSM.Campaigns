@@ -14,17 +14,17 @@
             {
                 "FactionA": "3-75th Army Rangers",
                 "FactionB": "Atropian Separatist Forces",
-                "FactionRelations": 0 
+                "FactionRelation": 0 
             },
             {
                 "FactionA": "3-75th Army Rangers",
                 "FactionB": "Atropian Liberation Forces",
-                "FactionRelations": 1 
+                "FactionRelation": 1 
             },
             {
                 "FactionA": "Atropian Liberation Forces",
                 "FactionB": "Atropian Separatist Forces",
-                "FactionRelations": 1 
+                "FactionRelation": 0 
             }
         ]
     }
